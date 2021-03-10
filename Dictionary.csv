@@ -1,0 +1,15 @@
+Term, Definition
+Outcome,Will be no if the experiment needs to be redone and a yes otherwise
+CFU,Colony forming units for the sample
+CT_1,CT value for replicate 1
+CT_2,CT value for replicate 2
+CT_3,CT value for replicate 3
+DrugTreatment,What treatment regimine was the patient recieving
+Experiment_Date_ddpcr,Experiment date for ddpcr
+Experiment_Date_qpcr,Experiment date for qpcr
+Extractor_ddpcr,Wet lab member who completed ddpcr
+Extractor_qpcr,Wet lab member who completed qpcr
+Mtb_Burden,Mtb burden of the patient
+Providing_Lab,Origin of the sample
+Providing_Lab_Key,Identification system from collaborators
+Ratio,Final value for the samples
