@@ -1,4 +1,4 @@
-##Final project for CSPB Data Structures class.
+## Final project for CSPB Data Structures class.
 
 A searchable dictionary ADT using a hash table as the underlying structure. This type of ADT can be useful when collaborating with other laboratries so prevent non-descriptive or duplicated variable names during the scientific process.
 
